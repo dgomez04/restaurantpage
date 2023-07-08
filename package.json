@@ -1,0 +1,19 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "A restaurant page done as a part of The Odin Project's JavaScript course, for the Full-Stack JavaScript Path.",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cli": "^1.0.1",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
